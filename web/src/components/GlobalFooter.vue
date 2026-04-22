@@ -3,12 +3,12 @@
     <div class="footer-content">
       <p class="copyright">
         <a
-          href="https://www.codefather.cn"
+          href="https://github.com/SuperJinggg"
           target="_blank"
           rel="noopener noreferrer"
           class="author-link"
         >
-          编程导航原创项目
+          SuperJinggg
         </a>
       </p>
     </div>
